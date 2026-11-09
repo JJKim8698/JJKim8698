@@ -10,7 +10,8 @@ I build software that helps businesses grow: advertising management, search inte
 
 | Project | What it does | Status |
 |---|---|---|
-| 🌕 **ADSMoon** | Google Ads management portal for agencies and advertisers | Launching |
+| 🌕 **ADSMoon** | Google Ads management portal for agencies and advertisers | Live |
+| 🎵 **Musicmoon** | AI song covers with original and your own voices | Launching |
 | 🔍 **Searchmoon** | Search and SEO intelligence platform | Live |
 | 🎬 **Videomoon** | Automated short-form video production pipeline | In development |
 | 🏸 **Badminton Vision** | Shuttle tracking and match analysis, web + iPhone | In development |
